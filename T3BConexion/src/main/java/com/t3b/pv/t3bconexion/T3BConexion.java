@@ -39,6 +39,7 @@ public class T3BConexion {
             resp = new Consulta().ejecutaSelectSP(conn, sql, params);
             
             System.out.println("resp: " + resp.toString());
+            System.out.println("resp: " + resp.toString());
             /*
             params.add("DANIEL");
             ArrayList<Integer> paramsOut = new ArrayList();
