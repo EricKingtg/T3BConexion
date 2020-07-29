@@ -31,7 +31,7 @@ public class Modelo extends ModeloG{
     
     public ArrayList <HashMap<String,String>> consultaProductosTA(String marca){
         
-        ArrayList<Integer> paramOut = new ArrayList();
+        ArrayList<Integer> paramOut = new ArrayList<>();
         paramOut.add(java.sql.Types.INTEGER);
         paramOut.add(java.sql.Types.VARCHAR);
         

@@ -30,7 +30,7 @@ public class T3BConexion {
         QryRespDTO resp = null;
         Consulta qry = new Consulta();
         if(conn != null){
-            ArrayList<Object> params = new ArrayList();
+            ArrayList<Object> params = new ArrayList<>();
             params.add("50");
             params.add("01");
             params.add("2019-08-31");

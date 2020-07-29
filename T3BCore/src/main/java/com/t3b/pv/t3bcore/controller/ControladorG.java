@@ -13,7 +13,6 @@ import com.t3b.pv.t3bcore.utils.PermisoPerfil;
 import com.t3b.pv.t3bcore.utils.Usuario;
 import java.awt.Dimension;
 import java.beans.PropertyVetoException;
-import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 import java.util.ArrayList;

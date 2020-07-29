@@ -180,6 +180,12 @@ public class Controlador extends ControladorG{
     }
     
     
+    private void cierraPantallaVenta(){
+        
+        vMain.setVisible(false);
+        
+    }
+    
     public void ejecutaAccion(String controlador,String accion,HashMap<String, Object> p){
         
     }
@@ -210,6 +216,7 @@ public class Controlador extends ControladorG{
         switch(accion){
             
             case "showPantallaPrincipal": showPantallaPrincipal();break;
+            case "cierraPantallaVenta": cierraPantallaVenta();break;    
             
             
         }

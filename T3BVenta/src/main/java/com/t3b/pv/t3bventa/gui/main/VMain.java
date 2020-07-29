@@ -585,6 +585,30 @@ public class VMain extends VPantalla implements KeyListener{
         }
     }
     
+    private void f10TA(){
+        
+        Controlador controlador = (Controlador)this.getControlador();
+        
+        try {
+            
+            if(controlador.getConfigV().getCar().getNum_productos()==0 && this.tArticulos.getRowCount()==0){
+
+                Controlador tmp = (Controlador)this.getControlador();
+                tmp.ejecutaAccion("cierraPantallaVenta");
+                tmp.getContGeneral().ejecutaAccion("pv.t3bepagos","showTA",new String [1],tmp);
+                //this.getContGeneral().ejecutaAccion(parametros[0],parametros[1], p, this);
+            }
+        
+        }catch(Exception e){
+            
+            Controlador tmp = (Controlador)this.getControlador();
+            tmp.ejecutaAccion("cierraPantallaVenta");
+            tmp.getContGeneral().ejecutaAccion("pv.t3bepagos","showTA",new String [1],tmp);
+            
+        }
+        
+    }
+    
     /**
      * This method is called from within the constructor to initialize the form.
      * WARNING: Do NOT modify this code. The content of this method is always
@@ -937,6 +961,11 @@ public class VMain extends VPantalla implements KeyListener{
         jPanel31.setLayout(new java.awt.BorderLayout());
 
         bF10.setText("F10 | Tiempo Aire");
+        bF10.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                bF10ActionPerformed(evt);
+            }
+        });
         jPanel31.add(bF10, java.awt.BorderLayout.CENTER);
 
         jPanel23.add(jPanel31);
@@ -1109,6 +1138,11 @@ public class VMain extends VPantalla implements KeyListener{
         // TODO add your handling code here:
         f6ChecarPrecio();
     }//GEN-LAST:event_bF6ActionPerformed
+
+    private void bF10ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_bF10ActionPerformed
+        // TODO add your handling code here:
+        f10TA();
+    }//GEN-LAST:event_bF10ActionPerformed
 
 
     // Variables declaration - do not modify//GEN-BEGIN:variables

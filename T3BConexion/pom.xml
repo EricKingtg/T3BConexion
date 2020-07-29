@@ -18,10 +18,10 @@
             <type>jar</type>
         </dependency>
         <dependency>
-            <groupId>com.sybase</groupId>
-            <artifactId>sybase</artifactId>
-            <version>4.0</version>
-        </dependency>
+			<groupId>t3b.dbconnection</groupId>
+			<artifactId>jcon4d</artifactId>
+			<version>1.00</version>
+		</dependency>
     </dependencies>
     <build>
         <plugins>
