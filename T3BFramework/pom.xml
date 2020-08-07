@@ -21,6 +21,7 @@
             <artifactId>T3BConexion</artifactId>
             <version>3.0</version>
         </dependency>
+        
     </dependencies>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -38,7 +39,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>com.t3b.pv.t3bframework.T3BFramework</mainClass>
+                            <mainClass>com.org.t3b.framework.T3BFramework</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

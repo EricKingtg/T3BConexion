@@ -38,7 +38,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>com.t3b.pv.t3blogin.T3BLogin</mainClass>
+                            <mainClass>com.org.t3b.login.T3BLogin</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

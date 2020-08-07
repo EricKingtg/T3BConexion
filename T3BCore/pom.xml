@@ -33,7 +33,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>com.t3b.pv.t3bcore.T3BCore</mainClass>
+                            <mainClass>com.org.t3b.core.T3BCore</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

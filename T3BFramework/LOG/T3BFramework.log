@@ -177,7 +177,7 @@
 [24/10/2019 16:17:37 CDT]:NORMAL Excepcion: Login: validaLogin Res: Verdadero User:sistemasPassword: dasta1234
 [31/10/2019 12:28:52 CST]:NORMAL Excepcion: INICIO DE APLICACION
 [31/10/2019 12:28:52 CST]:NORMAL Excepcion: CARGA DE LIBRERIAS
-[31/10/2019 12:28:52 CST]:EXCEPTION: Applicacion: T3BFramework Clase: t3b.framework Metodo: cargarJARS EXCEPTION: com.t3b.pv.t3bepagos.controller.Controlador.<init>(com.t3b.pv.t3bcore.utils.Config, javax.swing.JDesktopPane, com.t3b.pv.t3bcore.controller.ControladorG)
+[31/10/2019 12:28:52 CST]:EXCEPTION: Applicacion: T3BFramework Clase: t3b.framework Metodo: cargarJARS EXCEPTION: com.t3b.pv.t3bepagos.controller.Controlador.<init>(com.org.t3b.core.utils.Config, javax.swing.JDesktopPane, com.org.t3b.core.controller.ControladorG)
 [31/10/2019 12:39:24 CST]:NORMAL Excepcion: INICIO DE APLICACION
 [31/10/2019 12:39:24 CST]:NORMAL Excepcion: CARGA DE LIBRERIAS
 [31/10/2019 12:39:25 CST]:NORMAL Excepcion: Login: Accion: showLogin
@@ -422,3 +422,91 @@
 [10/05/2020 16:52:44 CDT]:NORMAL Excepcion: INICIO DE APLICACION
 [10/05/2020 16:52:44 CDT]:NORMAL Excepcion: CARGA DE LIBRERIAS
 [10/05/2020 16:52:44 CDT]:EXCEPTION: Applicacion: T3BAppAlmacen Clase: t3b.appalmacen.utils.Config Metodo: cargaConfig EXCEPTION: null
+[03/08/2020 17:25:12 CDT]:EXCEPTION: Applicacion: T3BAppAlmacen Clase: t3b.appalmacen.utils.Config Metodo: cargaConfig EXCEPTION: null
+[03/08/2020 17:25:12 CDT]:EXCEPTION: Applicacion: T3BCore Clase: t3b.core.utils.Config Metodo: cargaConfig EXCEPTION: null
+[03/08/2020 17:25:12 CDT]:NORMAL Excepcion: INICIO DE APLICACION
+[03/08/2020 17:25:12 CDT]:NORMAL Excepcion: CARGA DE LIBRERIAS
+[03/08/2020 17:25:12 CDT]:EXCEPTION: Applicacion: T3BAppAlmacen Clase: t3b.appalmacen.utils.Config Metodo: cargaConfig EXCEPTION: null
+[04/08/2020 10:46:18 CDT]:EXCEPTION: Applicacion: T3BAppAlmacen Clase: t3b.appalmacen.utils.Config Metodo: cargaConfig EXCEPTION: null
+[04/08/2020 10:46:23 CDT]:EXCEPTION: Applicacion: T3BCore Clase: t3b.core.utils.Config Metodo: cargaConfig EXCEPTION: null
+[04/08/2020 10:46:24 CDT]:NORMAL Excepcion: INICIO DE APLICACION
+[04/08/2020 10:46:29 CDT]:NORMAL Excepcion: CARGA DE LIBRERIAS
+[04/08/2020 10:46:38 CDT]:EXCEPTION: Applicacion: T3BAppAlmacen Clase: t3b.appalmacen.utils.Config Metodo: cargaConfig EXCEPTION: null
+[05/08/2020 12:26:56 CDT]:EXCEPTION: Applicacion: T3BAppAlmacen Clase: t3b.appalmacen.utils.Config Metodo: cargaConfig EXCEPTION: null
+[05/08/2020 12:26:56 CDT]:EXCEPTION: Applicacion: T3BCore Clase: t3b.core.utils.Config Metodo: cargaConfig EXCEPTION: null
+[05/08/2020 12:26:56 CDT]:NORMAL Excepcion: INICIO DE APLICACION
+[05/08/2020 12:26:56 CDT]:NORMAL Excepcion: CARGA DE LIBRERIAS
+[05/08/2020 12:26:57 CDT]:EXCEPTION: Applicacion: T3BAppAlmacen Clase: t3b.appalmacen.utils.Config Metodo: cargaConfig EXCEPTION: null
+[05/08/2020 12:27:44 CDT]:EXCEPTION: Applicacion: T3BAppAlmacen Clase: t3b.appalmacen.utils.Config Metodo: cargaConfig EXCEPTION: null
+[05/08/2020 12:27:49 CDT]:EXCEPTION: Applicacion: T3BCore Clase: t3b.core.utils.Config Metodo: cargaConfig EXCEPTION: null
+[05/08/2020 12:27:49 CDT]:NORMAL Excepcion: INICIO DE APLICACION
+[05/08/2020 12:27:52 CDT]:NORMAL Excepcion: CARGA DE LIBRERIAS
+[05/08/2020 12:28:06 CDT]:EXCEPTION: Applicacion: T3BAppAlmacen Clase: t3b.appalmacen.utils.Config Metodo: cargaConfig EXCEPTION: null
+[05/08/2020 12:29:23 CDT]:EXCEPTION: Applicacion: T3BAppAlmacen Clase: t3b.appalmacen.utils.Config Metodo: cargaConfig EXCEPTION: null
+[05/08/2020 12:29:24 CDT]:EXCEPTION: Applicacion: T3BCore Clase: t3b.core.utils.Config Metodo: cargaConfig EXCEPTION: null
+[05/08/2020 12:29:25 CDT]:NORMAL Excepcion: INICIO DE APLICACION
+[05/08/2020 12:29:25 CDT]:NORMAL Excepcion: CARGA DE LIBRERIAS
+[05/08/2020 12:29:33 CDT]:EXCEPTION: Applicacion: T3BAppAlmacen Clase: t3b.appalmacen.utils.Config Metodo: cargaConfig EXCEPTION: null
+[05/08/2020 12:32:54 CDT]:EXCEPTION: Applicacion: T3BAppAlmacen Clase: t3b.appalmacen.utils.Config Metodo: cargaConfig EXCEPTION: null
+[05/08/2020 12:32:54 CDT]:EXCEPTION: Applicacion: T3BCore Clase: t3b.core.utils.Config Metodo: cargaConfig EXCEPTION: null
+[05/08/2020 12:32:54 CDT]:NORMAL Excepcion: INICIO DE APLICACION
+[05/08/2020 12:32:54 CDT]:NORMAL Excepcion: CARGA DE LIBRERIAS
+[05/08/2020 12:32:58 CDT]:EXCEPTION: Applicacion: T3BAppAlmacen Clase: t3b.appalmacen.utils.Config Metodo: cargaConfig EXCEPTION: null
+[05/08/2020 12:43:39 CDT]:EXCEPTION: Applicacion: T3BAppAlmacen Clase: t3b.appalmacen.utils.Config Metodo: cargaConfig EXCEPTION: null
+[05/08/2020 12:43:39 CDT]:EXCEPTION: Applicacion: T3BCore Clase: t3b.core.utils.Config Metodo: cargaConfig EXCEPTION: null
+[05/08/2020 12:43:39 CDT]:NORMAL Excepcion: INICIO DE APLICACION
+[05/08/2020 12:43:39 CDT]:NORMAL Excepcion: CARGA DE LIBRERIAS
+[05/08/2020 12:43:47 CDT]:EXCEPTION: Applicacion: T3BAppAlmacen Clase: t3b.appalmacen.utils.Config Metodo: cargaConfig EXCEPTION: null
+[05/08/2020 12:48:17 CDT]:EXCEPTION: Applicacion: T3BAppAlmacen Clase: t3b.appalmacen.utils.Config Metodo: cargaConfig EXCEPTION: null
+[05/08/2020 12:48:17 CDT]:EXCEPTION: Applicacion: T3BCore Clase: t3b.core.utils.Config Metodo: cargaConfig EXCEPTION: null
+[05/08/2020 12:48:17 CDT]:NORMAL Excepcion: INICIO DE APLICACION
+[05/08/2020 12:48:17 CDT]:NORMAL Excepcion: CARGA DE LIBRERIAS
+[05/08/2020 12:48:54 CDT]:EXCEPTION: Applicacion: T3BAppAlmacen Clase: t3b.appalmacen.utils.Config Metodo: cargaConfig EXCEPTION: null
+[05/08/2020 12:52:28 CDT]:EXCEPTION: Applicacion: T3BAppAlmacen Clase: t3b.appalmacen.utils.Config Metodo: cargaConfig EXCEPTION: null
+[05/08/2020 12:52:28 CDT]:EXCEPTION: Applicacion: T3BCore Clase: t3b.core.utils.Config Metodo: cargaConfig EXCEPTION: null
+[05/08/2020 12:52:28 CDT]:NORMAL Excepcion: INICIO DE APLICACION
+[05/08/2020 12:52:28 CDT]:NORMAL Excepcion: CARGA DE LIBRERIAS
+[05/08/2020 12:52:30 CDT]:EXCEPTION: Applicacion: T3BAppAlmacen Clase: t3b.appalmacen.utils.Config Metodo: cargaConfig EXCEPTION: null
+[05/08/2020 12:57:34 CDT]:EXCEPTION: Applicacion: T3BAppAlmacen Clase: t3b.appalmacen.utils.Config Metodo: cargaConfig EXCEPTION: null
+[05/08/2020 12:57:34 CDT]:EXCEPTION: Applicacion: T3BCore Clase: t3b.core.utils.Config Metodo: cargaConfig EXCEPTION: null
+[05/08/2020 12:57:34 CDT]:NORMAL Excepcion: INICIO DE APLICACION
+[05/08/2020 12:57:34 CDT]:NORMAL Excepcion: CARGA DE LIBRERIAS
+[05/08/2020 12:57:36 CDT]:EXCEPTION: Applicacion: T3BAppAlmacen Clase: t3b.appalmacen.utils.Config Metodo: cargaConfig EXCEPTION: null
+[05/08/2020 13:02:20 CDT]:EXCEPTION: Applicacion: T3BAppAlmacen Clase: t3b.appalmacen.utils.Config Metodo: cargaConfig EXCEPTION: null
+[05/08/2020 13:02:20 CDT]:EXCEPTION: Applicacion: T3BCore Clase: t3b.core.utils.Config Metodo: cargaConfig EXCEPTION: null
+[05/08/2020 13:02:20 CDT]:NORMAL Excepcion: INICIO DE APLICACION
+[05/08/2020 13:02:20 CDT]:NORMAL Excepcion: CARGA DE LIBRERIAS
+[05/08/2020 13:02:23 CDT]:EXCEPTION: Applicacion: T3BAppAlmacen Clase: t3b.appalmacen.utils.Config Metodo: cargaConfig EXCEPTION: null
+[05/08/2020 13:03:19 CDT]:EXCEPTION: Applicacion: T3BFramework Clase: t3b.framework Metodo: cargarJARS EXCEPTION: com.t3b.pv.t3blogin.controller.Controlador
+[05/08/2020 13:05:46 CDT]:EXCEPTION: Applicacion: T3BAppAlmacen Clase: t3b.appalmacen.utils.Config Metodo: cargaConfig EXCEPTION: null
+[05/08/2020 13:05:46 CDT]:EXCEPTION: Applicacion: T3BCore Clase: t3b.core.utils.Config Metodo: cargaConfig EXCEPTION: null
+[05/08/2020 13:05:46 CDT]:NORMAL Excepcion: INICIO DE APLICACION
+[05/08/2020 13:05:46 CDT]:NORMAL Excepcion: CARGA DE LIBRERIAS
+[05/08/2020 13:05:48 CDT]:EXCEPTION: Applicacion: T3BAppAlmacen Clase: t3b.appalmacen.utils.Config Metodo: cargaConfig EXCEPTION: null
+[05/08/2020 13:07:12 CDT]:EXCEPTION: Applicacion: T3BAppAlmacen Clase: t3b.appalmacen.utils.Config Metodo: cargaConfig EXCEPTION: null
+[05/08/2020 13:07:12 CDT]:EXCEPTION: Applicacion: T3BCore Clase: t3b.core.utils.Config Metodo: cargaConfig EXCEPTION: null
+[05/08/2020 13:07:12 CDT]:NORMAL Excepcion: INICIO DE APLICACION
+[05/08/2020 13:07:12 CDT]:NORMAL Excepcion: CARGA DE LIBRERIAS
+[05/08/2020 13:07:16 CDT]:EXCEPTION: Applicacion: T3BAppAlmacen Clase: t3b.appalmacen.utils.Config Metodo: cargaConfig EXCEPTION: null
+[05/08/2020 13:10:29 CDT]:EXCEPTION: Applicacion: T3BAppAlmacen Clase: t3b.appalmacen.utils.Config Metodo: cargaConfig EXCEPTION: null
+[05/08/2020 13:10:29 CDT]:EXCEPTION: Applicacion: T3BCore Clase: t3b.core.utils.Config Metodo: cargaConfig EXCEPTION: null
+[05/08/2020 13:10:29 CDT]:NORMAL Excepcion: INICIO DE APLICACION
+[05/08/2020 13:10:29 CDT]:NORMAL Excepcion: CARGA DE LIBRERIAS
+[05/08/2020 13:10:31 CDT]:EXCEPTION: Applicacion: T3BAppAlmacen Clase: t3b.appalmacen.utils.Config Metodo: cargaConfig EXCEPTION: null
+[05/08/2020 13:23:56 CDT]:EXCEPTION: Applicacion: T3BAppAlmacen Clase: t3b.appalmacen.utils.Config Metodo: cargaConfig EXCEPTION: null
+[05/08/2020 13:23:56 CDT]:EXCEPTION: Applicacion: T3BCore Clase: t3b.core.utils.Config Metodo: cargaConfig EXCEPTION: null
+[05/08/2020 13:23:56 CDT]:NORMAL Excepcion: INICIO DE APLICACION
+[05/08/2020 13:23:56 CDT]:NORMAL Excepcion: CARGA DE LIBRERIAS
+[05/08/2020 13:23:57 CDT]:EXCEPTION: Applicacion: T3BAppAlmacen Clase: t3b.appalmacen.utils.Config Metodo: cargaConfig EXCEPTION: null
+[05/08/2020 13:26:35 CDT]:EXCEPTION: Applicacion: T3BFramework Clase: t3b.framework Metodo: cargarJARS EXCEPTION: com.t3b.pv.t3blogin.controller.Controlador
+[05/08/2020 14:30:29 CDT]:EXCEPTION: Applicacion: T3BAppAlmacen Clase: t3b.appalmacen.utils.Config Metodo: cargaConfig EXCEPTION: null
+[05/08/2020 14:30:29 CDT]:EXCEPTION: Applicacion: T3BCore Clase: t3b.core.utils.Config Metodo: cargaConfig EXCEPTION: null
+[05/08/2020 14:30:29 CDT]:NORMAL Excepcion: INICIO DE APLICACION
+[05/08/2020 14:30:29 CDT]:NORMAL Excepcion: CARGA DE LIBRERIAS
+[05/08/2020 14:30:29 CDT]:EXCEPTION: Applicacion: T3BAppAlmacen Clase: t3b.appalmacen.utils.Config Metodo: cargaConfig EXCEPTION: null
+[05/08/2020 14:30:31 CDT]:EXCEPTION: Applicacion: T3BFramework Clase: t3b.framework Metodo: cargarJARS EXCEPTION: com.t3b.pv.t3blogin.controller.Controlador
+[05/08/2020 14:30:47 CDT]:EXCEPTION: Applicacion: T3BAppAlmacen Clase: t3b.appalmacen.utils.Config Metodo: cargaConfig EXCEPTION: null
+[05/08/2020 14:30:47 CDT]:EXCEPTION: Applicacion: T3BCore Clase: t3b.core.utils.Config Metodo: cargaConfig EXCEPTION: null
+[05/08/2020 14:30:47 CDT]:NORMAL Excepcion: INICIO DE APLICACION
+[05/08/2020 14:30:47 CDT]:NORMAL Excepcion: CARGA DE LIBRERIAS
+[05/08/2020 14:30:48 CDT]:EXCEPTION: Applicacion: T3BAppAlmacen Clase: t3b.appalmacen.utils.Config Metodo: cargaConfig EXCEPTION: null

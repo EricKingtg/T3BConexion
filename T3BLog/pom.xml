@@ -28,7 +28,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>com.t3b.pv.t3blog.Log3B</mainClass>
+                            <mainClass>com.org.t3b.log.Log3B</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

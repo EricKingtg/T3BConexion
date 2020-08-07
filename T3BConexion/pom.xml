@@ -14,8 +14,7 @@
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <version>5.1.38</version>
-            <type>jar</type>
+            <version>8.0.11</version>
         </dependency>
         <dependency>
 			<groupId>t3b.dbconnection</groupId>
@@ -34,7 +33,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>com.t3b.pv.t3bconexion.T3BConexion</mainClass>
+                            <mainClass>com.org.t3b.conexion.T3BConexion</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
